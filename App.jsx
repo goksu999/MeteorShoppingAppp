@@ -15,7 +15,7 @@ import AccountsUIWrapper from './AccountsUIWrapper.js';
 import {Provider} from 'react-redux'
 import Store from '../redux/store/store'
 import { combineReducers, compose, createStore, applyMiddleware } from 'redux';
-import { push,routerForBrowser, initializeCurrentLocation,initialState, Fragment, RoutedfdfdsfsdfProvider, Link } from 'redux-little-router';
+import { push, routerForBrowser, initializeCurrentLocation, initialState, Fragment, RoutedfdfdsfsdfProvider, Link } from 'redux-little-router';
 import { createLogger } from 'redux-logger';
 import ReduxThunk from 'redux-thunk';
 

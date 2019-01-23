@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-
 import { Products } from '../api/products.js';
 
 class ProductList extends Component {
